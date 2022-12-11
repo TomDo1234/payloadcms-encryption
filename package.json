@@ -1,0 +1,11 @@
+{
+  "name": "payloadcms-encryption",
+  "version": "1.0.0",
+  "description": "Adds functions that allow you to encrypt the mongodb used for payloadcms",
+  "main": "index.js",
+  "dependencies": {
+    "payload": ">=1.0.0"
+  },
+  "author": "Tom Do",
+  "license": "ISC"
+}
